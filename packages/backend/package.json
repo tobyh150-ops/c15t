@@ -202,7 +202,7 @@
 		"fumadb": "^0.1.1",
 		"kysely": "^0.27.6",
 		"neverthrow": "^8.2.0",
-		"superjson": "^2.2.2",
+		"superjson": "^2.2.3",
 		"zod": "^4.0.17"
 	},
 	"devDependencies": {
